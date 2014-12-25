@@ -8,7 +8,7 @@ PreCourse-Challanges
 <br>
 
 The following directories were created during the prepation for the Makers Academy Bootcamp.<br><br>
-<ul>Learnt skills:</ul>  command line commands, github functions and basic Ruby syntax.
+Learnt skills: command line commands, github functions and basic Ruby syntax.
 
 - [command line] (https://github.com/Tr1ckX/command-line)
 - [Octocat] (https://github.com/Tr1ckX/Octocat)
