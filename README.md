@@ -7,7 +7,7 @@ PreCourse-Challanges
 </div>
 <br>
 
-The following directories were created during the prepation for the Makers Academy Bootcamp.
+The following directories were created during the prepation for the Makers Academy Bootcamp.<br>
 Learnt skills:  command line commands, github functions and basic Ruby syntax.
 
 - [command line] (https://github.com/Tr1ckX/command-line)
