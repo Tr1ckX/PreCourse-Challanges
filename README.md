@@ -8,7 +8,9 @@ PreCourse-Challanges
 <br>
 
 The following directories were created during the prepation for the Makers Academy Bootcamp.
-- [x] command line commands, github functions and basic Ruby syntax.<br>
+- [x] command line commands, github functions and basic Ruby syntax.
+
+
 - [command line] (https://github.com/Tr1ckX/command-line)
 - [Octocat] (https://github.com/Tr1ckX/Octocat)
 - [the-cat] (https://github.com/makersacademy/the-cat)
